@@ -23,12 +23,6 @@ namespace TimmerForSEO
             Task timer = new Task(() => Timer());
             timer.Start();
 
-            Console.WriteLine("press any key  and enter  pause Timer");
-
-            Console.ReadLine();
-
-            PauseTimer();
-
         }
 
         private void Timer()
@@ -47,17 +41,13 @@ namespace TimmerForSEO
         public void StopTimer()
         {
             IsStopTimer = true;
-            Console.WriteLine("Stop Timer");
         }
 
         public void PauseTimer()
         {
             IsStopTimer = true;
             IsStartTimer = false;
-            Console.WriteLine("Pause Timer");
-
-            Console.WriteLine("Press any key and enter resume Timer");
-            Console.ReadLine();
+           
             StartTimer();
         }
     }

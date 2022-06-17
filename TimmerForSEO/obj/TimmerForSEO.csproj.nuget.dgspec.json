@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\erekl\\source\\repos\\TimmerForSEO\\TimmerForSEO\\TimmerForSEO.csproj": {}
+    "C:\\Users\\erekl\\Desktop\\Code\\E-commerce\\TimerForSEO\\TimmerForSEO\\TimmerForSEO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\erekl\\source\\repos\\TimmerForSEO\\TimmerForSEO\\TimmerForSEO.csproj": {
+    "C:\\Users\\erekl\\Desktop\\Code\\E-commerce\\TimerForSEO\\TimmerForSEO\\TimmerForSEO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\erekl\\source\\repos\\TimmerForSEO\\TimmerForSEO\\TimmerForSEO.csproj",
+        "projectUniqueName": "C:\\Users\\erekl\\Desktop\\Code\\E-commerce\\TimerForSEO\\TimmerForSEO\\TimmerForSEO.csproj",
         "projectName": "TimmerForSEO",
-        "projectPath": "C:\\Users\\erekl\\source\\repos\\TimmerForSEO\\TimmerForSEO\\TimmerForSEO.csproj",
+        "projectPath": "C:\\Users\\erekl\\Desktop\\Code\\E-commerce\\TimerForSEO\\TimmerForSEO\\TimmerForSEO.csproj",
         "packagesPath": "C:\\Users\\erekl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\erekl\\source\\repos\\TimmerForSEO\\TimmerForSEO\\obj\\",
+        "outputPath": "C:\\Users\\erekl\\Desktop\\Code\\E-commerce\\TimerForSEO\\TimmerForSEO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\erekl\\AppData\\Roaming\\NuGet\\NuGet.Config",
