@@ -33,7 +33,7 @@ namespace TimmerForSEO
            while(IsStartTimer)
             {
                 Thread.Sleep(1000);
-                StartTimerEvet();
+                StartTimerEvet.Invoke();
                 IsStopTimer = false;
                 CurrentTime++;
             }
