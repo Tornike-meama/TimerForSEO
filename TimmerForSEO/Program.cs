@@ -10,9 +10,10 @@ namespace TimmerForSEO
         {
             myTimer = new MyTimer();
             MyTimer.StartTimerEvet += TestTimer;
+            myTimer.StopTimer();
             myTimer.StartTimer();
 
-            Console.ReadKey();
+            Console.Read();
         }
 
 

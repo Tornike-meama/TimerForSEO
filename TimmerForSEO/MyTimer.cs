@@ -16,11 +16,14 @@ namespace TimmerForSEO
         public delegate void TimerEvent();
 
         public static event TimerEvent StartTimerEvet;
-
+        Task timer;
+        public MyTimer()
+        {
+            timer = new Task(() => Timer());
+        }
         public void StartTimer()
         {
             IsStartTimer = true;
-            Task timer = new Task(() => Timer());
             timer.Start();
 
         }
