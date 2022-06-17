@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\erekl\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\erekl\\.nuget\\packages"
+    ]
+  }
+}

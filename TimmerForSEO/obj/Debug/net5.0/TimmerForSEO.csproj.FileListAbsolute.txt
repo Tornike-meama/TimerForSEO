@@ -1,0 +1,16 @@
+C:\Users\erekl\source\repos\TimmerForSEO\TimmerForSEO\bin\Debug\net5.0\TimmerForSEO.exe
+C:\Users\erekl\source\repos\TimmerForSEO\TimmerForSEO\bin\Debug\net5.0\TimmerForSEO.deps.json
+C:\Users\erekl\source\repos\TimmerForSEO\TimmerForSEO\bin\Debug\net5.0\TimmerForSEO.runtimeconfig.json
+C:\Users\erekl\source\repos\TimmerForSEO\TimmerForSEO\bin\Debug\net5.0\TimmerForSEO.runtimeconfig.dev.json
+C:\Users\erekl\source\repos\TimmerForSEO\TimmerForSEO\bin\Debug\net5.0\TimmerForSEO.dll
+C:\Users\erekl\source\repos\TimmerForSEO\TimmerForSEO\bin\Debug\net5.0\TimmerForSEO.pdb
+C:\Users\erekl\source\repos\TimmerForSEO\TimmerForSEO\obj\Debug\net5.0\TimmerForSEO.csproj.AssemblyReference.cache
+C:\Users\erekl\source\repos\TimmerForSEO\TimmerForSEO\obj\Debug\net5.0\TimmerForSEO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erekl\source\repos\TimmerForSEO\TimmerForSEO\obj\Debug\net5.0\TimmerForSEO.AssemblyInfoInputs.cache
+C:\Users\erekl\source\repos\TimmerForSEO\TimmerForSEO\obj\Debug\net5.0\TimmerForSEO.AssemblyInfo.cs
+C:\Users\erekl\source\repos\TimmerForSEO\TimmerForSEO\obj\Debug\net5.0\TimmerForSEO.csproj.CoreCompileInputs.cache
+C:\Users\erekl\source\repos\TimmerForSEO\TimmerForSEO\obj\Debug\net5.0\TimmerForSEO.dll
+C:\Users\erekl\source\repos\TimmerForSEO\TimmerForSEO\obj\Debug\net5.0\refint\TimmerForSEO.dll
+C:\Users\erekl\source\repos\TimmerForSEO\TimmerForSEO\obj\Debug\net5.0\TimmerForSEO.pdb
+C:\Users\erekl\source\repos\TimmerForSEO\TimmerForSEO\obj\Debug\net5.0\TimmerForSEO.genruntimeconfig.cache
+C:\Users\erekl\source\repos\TimmerForSEO\TimmerForSEO\obj\Debug\net5.0\ref\TimmerForSEO.dll
